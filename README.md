@@ -1,4 +1,4 @@
-# 00_minimal-video-template
+# Video minimal template  
 
 
 This is a html + css template for the Video teams.
